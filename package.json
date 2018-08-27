@@ -1,0 +1,22 @@
+{
+  "name": "tilemaptool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "downloadImg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Han3Y/tileMapTool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Han3Y/tileMapTool/issues"
+  },
+  "homepage": "https://github.com/Han3Y/tileMapTool#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
